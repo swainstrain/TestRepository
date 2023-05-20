@@ -3,9 +3,18 @@
       "ParameterName": "Phase Created",
       "ParameterId": -1012100,
       "PossibleValues": [
-        "Existing",
-        "Working Drawings",
-        "Learning Content"
+      {
+        "Value": "Existing",
+        "ValueId": 12589
+      },
+      {
+        "Value": "Working Drawings",
+        "ValueId": 86961
+      },
+      {
+        "Value": "Learning Content",
+        "ValueId": 961604
+      }
       ]
     }
 ]
